@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 
-img = cv.imread("/home/takion/Documentos/Pixel/clin2.PNG")
+img = cv.imread("/endereço /da/imagem/imagem.extensao")
 img2 = np.copy(img)
 
 img2 = cv.line(img,(50,50),(300,50),(0,255,0),3) # Cria linha
