@@ -1,4 +1,4 @@
-# Desenha figuras geométricas: Linha, Reyângulo, Círculo
+# Desenha figuras geométricas: Linha, Retângulo, Círculo
 # ***************************************************************
 import cv2 as cv
 # Desenha figuras geométricas: Linha, Retângulo, Círculo.
